@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://ibb.co/Fb4zKkR](https://ibb.co/Fb4zKkR)
 
-- ⚡ Fun fact **I think I am a very funny guy**
+- ⚡ Fun fact **I think I am a very serious guy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
