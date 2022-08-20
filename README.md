@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rayan Hossain</h1>
 <h3 align="center">A passionate Full Stack developer with expertise in WordPress</h3>
 
+<a href="https://app.daily.dev/rayan2228"><img src="https://api.daily.dev/devcards/0734f5ee57454220b3910c192d2b72f5.png?r=w7f" width="400" alt="Rayan Hossain's Dev Card"/></a>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayan2228&label=Profile%20views&color=0e75b6&style=flat" alt="rayan2228" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayan2228" alt="rayan2228" /></a> </p>
