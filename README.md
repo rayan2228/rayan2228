@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayan2228&label=Profile%20views&color=0e75b6&style=flat" alt="rayan2228" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayan2228" alt="rayan2228" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rayan2228&theme=onedark" alt="rayan2228" /></a> </p>
 
 - 🔭 I’m currently working on [creative it insitute](https://www.creativeitinstitute.com/)
 
