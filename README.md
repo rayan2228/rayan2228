@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Full Stack developer with expertise in WordPress</h3>
 
 <!--<p align="center"> <a href="https://app.daily.dev/rayan2228"><img src="https://api.daily.dev/devcards/0734f5ee57454220b3910c192d2b72f5.png?r=w7f" width="400" alt="Rayan Hossain's Dev Card"/></a> </p>-->
-<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ngpw5s5jxdyu7mjn8fmnapfu5ide0sw1fj036cev&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="400" alt="Rayan Hossain's Dev Card"/>
+<img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47ngpw5s5jxdyu7mjn8fmnapfu5ide0sw1fj036cev&ep=v1_gifs_search&rid=giphy.gif&ct=g"  alt="Rayan Hossain"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayan2228&label=Profile%20views&color=0e75b6&style=flat" alt="rayan2228" /> </p>
 
