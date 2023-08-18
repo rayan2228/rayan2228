@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [creative it insitute](https://www.creativeitinstitute.com/)
 
-- 📝 I regularly write articles on [https://www.facebook.com/rayan2228/](https://www.facebook.com/rayan2228/)
+- 📝 I regularly write articles on [[https://www.facebook.com/rayan2228/](https://bd.linkedin.com/in/rayan2228)]
 
-- 💬 Ask me about **JavaScript,React,PHP,Laravel,Wordpress**
+- 💬 Ask me about **JavaScript, React JS, PHP, Laravel, WordPress, Node JS, Express JS, MongoDB, FireBAse**
 
 - 📫 How to reach me **rayanh.dev@gmail.com**
 
@@ -23,9 +23,8 @@
 <p align="left">
 <a href="https://codepen.io/rayan2228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="rayan2228" height="30" width="40" /></a>
 <a href="https://dev.to/rayan2228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rayan2228" height="30" width="40" /></a>
-<a href="https://twitter.com/rayanhossain10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rayanhossain10" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rayan2228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayan2228" height="30" width="40" /></a>
-<a href="https://fb.com/rayan2228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rayan2228" height="30" width="40" /></a>
+<a href="https://fb.com/rhrayan2228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rayan2228" height="30" width="40" /></a>
 <a href="https://instagram.com/r_a_y_a_n2228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_a_y_a_n2228" height="30" width="40" /></a>
 <a href="https://dribbble.com/rayan228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rayan228" height="30" width="40" /></a>
 <a href="https://hashnode.com/@rayan2228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rayan2228" height="30" width="40" /></a>
