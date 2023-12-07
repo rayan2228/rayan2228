@@ -2,7 +2,7 @@
 <h3 align="center">Passionate MERN Stack Developer</h3>
 
 <!--<p align="center"> <a href="https://app.daily.dev/rayan2228"><img src="https://api.daily.dev/devcards/0734f5ee57454220b3910c192d2b72f5.png?r=w7f" width="400" alt="Rayan Hossain's Dev Card"/></a> </p>-->
-<div align="center"><img src="https://media.giphy.com/media/3bc9YL28QWi3pYzi1p/giphy.gif" alt="Rayan Hossain" "/></div>
+<div align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJ3bXBxYzN2dnIxeWRzNzNscHgyMm9jbmRqZDhiMThuYnhpc3d6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" alt="Rayan Hossain" "/></div>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rayan2228&label=Profile%20views&color=0e75b6&style=flat" alt="rayan2228" /> </p>
