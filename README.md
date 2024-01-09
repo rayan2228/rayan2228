@@ -28,9 +28,6 @@
 <a href="https://linkedin.com/in/rayan2228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rayan2228" height="30" width="40" /></a>
 <a href="https://fb.com/rhrayan2228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rayan2228" height="30" width="40" /></a>
 <a href="https://instagram.com/r_a_y_a_n2228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="r_a_y_a_n2228" height="30" width="40" /></a>
-<a href="https://dribbble.com/rayan228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="rayan228" height="30" width="40" /></a>
-<a href="https://hashnode.com/@rayan2228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@rayan2228" height="30" width="40" /></a>
-<a href="https://medium.com/@rayan2228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rayan2228" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/rayan2228" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="rayan2228" height="30" width="40" /></a>
 </p>
 
