@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The Rise of AI-Powered Coding Assistants: How They&#39;re Changing Development in 2025](https://dev.to/rayan2228/the-rise-of-ai-powered-coding-assistants-how-theyre-changing-development-in-2025-5dhj)
 - [10 JavaScript Debugging Techniques Every Developer Should Know](https://dev.to/rayan2228/10-javascript-debugging-techniques-every-developer-should-know-3a11)
 - [Exploring React 19: New Features and Code Examples](https://dev.to/rayan2228/exploring-react-19-new-features-and-code-examples-379n)
 - [The Art of Clean Code: Why It’s More Than Just Writing Code](https://medium.com/@rayanh.dev/the-art-of-clean-code-why-its-more-than-just-writing-code-88845154ea88?source=rss-986ba30de8b8------2)
 - [The Art of Clean Code: Why It’s More Than Just Writing Code](https://dev.to/rayan2228/the-art-of-clean-code-why-its-more-than-just-writing-code-7lm)
-- [Emerging Trends in SaaS Development: What to Expect in 2025 and Beyond](https://medium.com/@rayanh.dev/emerging-trends-in-saas-development-what-to-expect-in-2025-and-beyond-befa58cb76ac?source=rss-986ba30de8b8------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
