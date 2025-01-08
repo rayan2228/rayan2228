@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [React Server Components: Revolutionizing Modern Web Development](https://dev.to/rayan2228/react-server-components-revolutionizing-modern-web-development-4d3b)
 - [The Rise of AI-Powered Coding Assistants: How They&#39;re Changing Development in 2025](https://dev.to/rayan2228/the-rise-of-ai-powered-coding-assistants-how-theyre-changing-development-in-2025-5dhj)
 - [10 JavaScript Debugging Techniques Every Developer Should Know](https://dev.to/rayan2228/10-javascript-debugging-techniques-every-developer-should-know-3a11)
 - [Exploring React 19: New Features and Code Examples](https://dev.to/rayan2228/exploring-react-19-new-features-and-code-examples-379n)
 - [The Art of Clean Code: Why It’s More Than Just Writing Code](https://medium.com/@rayanh.dev/the-art-of-clean-code-why-its-more-than-just-writing-code-88845154ea88?source=rss-986ba30de8b8------2)
-- [The Art of Clean Code: Why It’s More Than Just Writing Code](https://dev.to/rayan2228/the-art-of-clean-code-why-its-more-than-just-writing-code-7lm)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
