@@ -25,11 +25,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Git and GitHub: A Guide for New Team Members](https://dev.to/rayan2228/mastering-git-and-github-a-guide-for-new-team-members-3h7d)
 - [State Management in React 2025: Exploring Modern Solutions](https://dev.to/rayan2228/state-management-in-react-2025-exploring-modern-solutions-5f9c)
 - [React Server Components: Revolutionizing Modern Web Development](https://dev.to/rayan2228/react-server-components-revolutionizing-modern-web-development-4d3b)
 - [The Rise of AI-Powered Coding Assistants: How They&#39;re Changing Development in 2025](https://dev.to/rayan2228/the-rise-of-ai-powered-coding-assistants-how-theyre-changing-development-in-2025-5dhj)
 - [10 JavaScript Debugging Techniques Every Developer Should Know](https://dev.to/rayan2228/10-javascript-debugging-techniques-every-developer-should-know-3a11)
-- [Exploring React 19: New Features and Code Examples](https://dev.to/rayan2228/exploring-react-19-new-features-and-code-examples-379n)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
