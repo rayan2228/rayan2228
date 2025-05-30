@@ -12,6 +12,7 @@
 
 # 👀 GitHub Visitors
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=rayan2228.rayan2228&"  />
+<br/>
 
 # 🗞️ Blog posts
 <!-- BLOG-POST-LIST:START -->
