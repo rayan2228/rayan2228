@@ -16,11 +16,11 @@
 
 # 🗞️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [The Complete Guide to React Hooks &lpar;2025&rpar;](https://dev.to/rayan2228/the-complete-guide-to-react-hooks-2025-1i78)
 - [MongoDB Aggregation Roadmap – A 7-Day Study Plan](https://dev.to/rayan2228/mongodb-aggregation-roadmap-a-7-day-study-plan-3olm)
 - [How to Structure a Scalable MERN Project for Teams](https://dev.to/rayan2228/how-to-structure-a-scalable-mern-project-for-teams-533g)
 - [Stop Re-Rendering! 7 Practical Ways to Optimize React Performance](https://dev.to/rayan2228/stop-re-rendering-7-practical-ways-to-optimize-react-performance-1b5f)
 - [The Ultimate CSS Selectors Cheat Sheet 2025](https://dev.to/rayan2228/the-ultimate-css-selectors-cheat-sheet-2025-45ep)
-- [Next.js Rendering Strategies: CSR vs SSR vs SSG vs ISR &lpar;Complete Guide&rpar; 2025](https://dev.to/rayan2228/nextjs-rendering-strategies-csr-vs-ssr-vs-ssg-vs-isr-complete-guide-26j4)
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Tech Stack:
