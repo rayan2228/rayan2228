@@ -16,11 +16,11 @@
 
 # 🗞️ Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [JavaScript Module System Explained &lpar;with Examples&rpar;](https://dev.to/rayan2228/javascript-module-system-explained-with-examples-3l6o)
 - [React Container &amp; Presenter Pattern in React &lpar;Beginner Guide with Real Example&rpar;](https://dev.to/rayan2228/react-container-presenter-pattern-in-react-beginner-guide-with-real-example-3gi2)
 - [The Complete Guide to React Hooks &lpar;2025&rpar;](https://dev.to/rayan2228/the-complete-guide-to-react-hooks-2025-1i78)
 - [MongoDB Aggregation Roadmap – A 7-Day Study Plan](https://dev.to/rayan2228/mongodb-aggregation-roadmap-a-7-day-study-plan-3olm)
 - [How to Structure a Scalable MERN Project for Teams](https://dev.to/rayan2228/how-to-structure-a-scalable-mern-project-for-teams-533g)
-- [Stop Re-Rendering! 7 Practical Ways to Optimize React Performance](https://dev.to/rayan2228/stop-re-rendering-7-practical-ways-to-optimize-react-performance-1b5f)
 <!-- BLOG-POST-LIST:END -->
 
 # 💻 Tech Stack:
