@@ -1,53 +1,119 @@
-<h1 align="center">Hi 👋, I'm Rayan Hossain</h1>
-<h3 align="center">MERN Stack Developer || Crafting High-Performance Web Apps || Open to Collaborations || Mentor</h3>
+# Hi there 👋 I'm Rayan Hossain
 
-<!--<p align="center"> <a href="https://app.daily.dev/rayan2228"><img src="https://api.daily.dev/devcards/0734f5ee57454220b3910c192d2b72f5.png?r=w7f" width="400" alt="Rayan Hossain's Dev Card"/></a> </p>-->
-<div align="center"><img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXJ3bXBxYzN2dnIxeWRzNzNscHgyMm9jbmRqZDhiMThuYnhpc3d6aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WtTnAfZn6aVJfBzlN3/giphy.gif" alt="Rayan Hossain" "/></div>
+### Full-Stack MERN & AI Developer
 
-# 💫 About Me:
-🔭 I’m currently working on Creative Business Group<br><br>👨‍💻 All of my projects are available at rayan-hossain.vercel.app<br><br>📝 I regularly write articles on https://dev.to/rayan2228<br><br>💬 Ask me about JavaScript, React JS, PHP, Laravel, WordPress, Node JS, Express JS, MongoDB<br><br>📫 How to reach me rayanh.dev@gmail.com<br><br>📄 Know about my experiences https://www.linkedin.com/in/rayan2228/<br><br>⚡ Fun fact Act Like a Fool || Behave Like a Geniuses.
+I'm a Full-Stack Developer at **Creative Business Group**, building production-ready web applications with the **MERN stack** and modern AI technologies.
 
-# 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/rhrayan22228) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rayan22228) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@rayanh.dev) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/rayan2228) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rayanh.dev@gmail.com) 
+My recent work focuses on integrating **LLMs**, **agentic workflows**, **tool calling**, **RAG**, and scalable backend architectures into real-world products instead of demo applications.
 
-# 👀 GitHub Visitors
-<img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=rayan2228.rayan2228&"  />
-<br/>
+I enjoy designing clean APIs, building scalable frontend architectures, and creating AI-powered experiences that solve real business problems.
 
-# 🗞️ Blog posts
-<!-- BLOG-POST-LIST:START -->
-- [JavaScript Module System Explained &lpar;with Examples&rpar;](https://dev.to/rayan2228/javascript-module-system-explained-with-examples-3l6o)
-- [React Container &amp; Presenter Pattern in React &lpar;Beginner Guide with Real Example&rpar;](https://dev.to/rayan2228/react-container-presenter-pattern-in-react-beginner-guide-with-real-example-3gi2)
-- [The Complete Guide to React Hooks &lpar;2025&rpar;](https://dev.to/rayan2228/the-complete-guide-to-react-hooks-2025-1i78)
-- [MongoDB Aggregation Roadmap – A 7-Day Study Plan](https://dev.to/rayan2228/mongodb-aggregation-roadmap-a-7-day-study-plan-3olm)
-- [How to Structure a Scalable MERN Project for Teams](https://dev.to/rayan2228/how-to-structure-a-scalable-mern-project-for-teams-533g)
-<!-- BLOG-POST-LIST:END -->
+---
 
-# 💻 Tech Stack:
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![EJS](https://img.shields.io/badge/ejs-%23B4CA65.svg?style=for-the-badge&logo=ejs&logoColor=black) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Gatsby](https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![Livewire](https://img.shields.io/badge/livewire-%234e56a6.svg?style=for-the-badge&logo=livewire&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white) ![RollupJS](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Prettier](https://img.shields.io/badge/prettier-%23F7B93E.svg?style=for-the-badge&logo=prettier&logoColor=black) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+## 🚀 What I'm Working On
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rayan2228&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rayan2228&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rayan2228&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🛠 Building AI-powered SaaS products
+- 🤖 Developing LLM applications with tool calling & agent workflows
+- 🧠 Exploring LangGraph & AI automation
+- 🐳 Dockerizing applications for production deployment
+- ⚡ Building faster with Claude Code
+- ✍️ Writing technical articles about React, MongoDB, Node.js & AI
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=rayan2228&theme=merko&no-frame=false&no-bg=true&margin-w=4)
+---
 
-## 💹 GitHub Contribution Graph
-[![Rayan's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rayan2228&theme=merko)](https://github.com/ashutosh00710/github-readme-activity-graph)
+## 💼 Current Tech Stack
 
-## 👾 Pacman On Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayan2228/rayan2228/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayan2228/rayan2228/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rayan2228/rayan2228/output/pacman-contribution-graph.svg">
-</picture>
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux,vite,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,prisma" />
+</p>
+
+### AI & LLM
+
+<p>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LangGraph-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Tool_Calling-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MCP-F97316?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,postman,vercel" />
+</p>
+
+---
+
+# ⭐ Featured Projects
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| **Automated Parking Management System** | AI-based license plate recognition system with automated parking management. | MERN · Gemini API · ESP32 |
+| **ResponsiHub** | Modern business website with scalable architecture and responsive UI. | Next.js · Tailwind CSS |
+| **E-commerce Platform** | Complete e-commerce solution for Bangladeshi businesses. | MERN · SSLCommerz |
+
+---
+
+# 📝 Latest Articles
+
+- 📘 JavaScript Module System Explained
+- ⚛ React Container & Presenter Pattern
+- 🎣 Complete Guide to React Hooks (2025)
+- 🍃 MongoDB Aggregation Roadmap
+- 🏗 Scalable MERN Project Structure
+
+➡️ **Read more:** https://dev.to/rayan2228
+
+---
+
+# 📈 GitHub Stats
+
+<p >
+  <img src="https://raw.githubusercontent.com/rayan2228/rayan2228/master/metrics.svg" alt="GitHub metrics" />
+</p>
+
+<p >
+  <img src="https://raw.githubusercontent.com/rayan2228/rayan2228/master/metrics.calendar.svg" alt="Contribution calendar" />
+</p>
+
+<p >
+
+<img src="https://streak-stats.demolab.com?user=rayan2228&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+## Pacman On Contributions
+
+<picture>  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rayan2228/rayan2228/output/pacman-contribution-graph-dark.svg">  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rayan2228/rayan2228/output/pacman-contribution-graph.svg">  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/rayan2228/rayan2228/output/pacman-contribution-graph.svg"></picture>
 
 ## 🐍 Snake On Contributions
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
-</picture>
 
+<picture>  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" /></picture>
+
+---
+
+## 🌍 Connect With Me
+
+- 🌐 Portfolio: https://xrodev.com
+- 💼 LinkedIn: https://linkedin.com/in/rayan2228
+- 📝 Dev.to: https://dev.to/rayan2228
+- 📧 Email: rayanh.dev@gmail.com
+
+---
+
+> *"Build software that solves real problems, not just impressive demos."*
