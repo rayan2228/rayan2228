@@ -62,7 +62,7 @@ I enjoy designing clean APIs, building scalable frontend architectures, and crea
 | Project | Description | Tech |
 |---------|-------------|------|
 | **Automated Parking Management System** | AI-based license plate recognition system with automated parking management. | MERN · Gemini API · ESP32 |
-| **ResponsiHub** | Modern business website with scalable architecture and responsive UI. | Next.js · Tailwind CSS |
+| **responsivedevices** | Modern business website with scalable architecture and responsive UI. | Next.js · Tailwind CSS |
 | **E-commerce Platform** | Complete e-commerce solution for Bangladeshi businesses. | MERN · SSLCommerz |
 
 ---
