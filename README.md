@@ -111,7 +111,7 @@ I enjoy designing clean APIs, building scalable frontend architectures, and crea
 
 - 🌐 Portfolio: https://xrodev.com
 - 💼 LinkedIn: https://linkedin.com/in/rayan2228
-- 📝 Dev.to: https://dev.to/rayan2228
+- 📝 Devto: https://dev.to/rayan2228
 - 📧 Email: rayanh.dev@gmail.com
 
 ---
