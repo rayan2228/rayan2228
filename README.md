@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Rayan Hossain
 
-### Full-Stack MERN & AI Developer
+### Full-Stack & AI Engeneer 
 
 I'm a Full-Stack Developer at **Creative Business Group**, building production-ready web applications with the **MERN stack** and modern AI technologies.
 
